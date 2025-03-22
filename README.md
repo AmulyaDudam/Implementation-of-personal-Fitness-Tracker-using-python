@@ -3,10 +3,9 @@ Summary😊:-
  This Python-based program, Personal Fitness Tracker, is intended to assist users in tracking and monitoring their exercise regimens, physical activity, and general fitness advancement.  In addition to offering customers individualized insights to assist them in reaching their fitness objectives, the system enables users to record their daily exercise, caloric intake, and workout length.  The project uses basic data analytics methods to show trends in workouts and provide recommendations for enhancements.
  
 Technology Stack💻:-
-   Programming Language- Python🐍
-   Libraries and Framework📚- Streamlit, NUmpy, Pandas, Scikit-learn, Matplotlib & Seaborn, Plotly, 
-    Time.
-    Development Environment🏠- VS code, PyCharm or Jupyter Notebook, github.
+   1. Programming Language- Python🐍
+   2. Libraries and Framework📚- Streamlit, NUmpy, Pandas, Scikit-learn, Matplotlib & Seaborn, Plotly,Time.
+   3. Development Environment🏠- VS code, PyCharm or Jupyter Notebook, github.
     
 Setup Instructions🕵️:-
    1. Make a clone of this repository:
