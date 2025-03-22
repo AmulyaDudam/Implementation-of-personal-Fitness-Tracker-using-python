@@ -8,7 +8,7 @@ Technology Stack
     Development Environment- VS code, PyCharm or Jupyter Notebook, github.
 Setup Instructions
    1. Make a clone of this repository:
-      git clone https://github.com/yourusername/fitness-tracker.git
+      https://github.com/AmulyaDudam/Implementation-of-personal-Fitness-Tracker-using-python
    2. Install the necessary dependencies:
       pip install -r requirements.txt
    3. Run the application:
